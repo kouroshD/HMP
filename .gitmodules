@@ -1,0 +1,3 @@
+[submodule "HMP"]
+	path = HMP
+	url = https://github.com/kouroshD/HMP.git
